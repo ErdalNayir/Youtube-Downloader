@@ -13,4 +13,6 @@ You can download videos or convert them into audio
 
 * Press download.
 
+* The downloaded audio or video is saved to current working directory (probably,to the file where the program source code is kept)
+
 
