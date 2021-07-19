@@ -19,13 +19,13 @@ You can download videos or convert them into audio
 <br></br>
 <br></br>
 
-<div><img src="https://github.com/ErdalNayir/Youtube-Downloader/blob/main/pytube/photo1.jpg" height="250" width="450" /></div>
+<div><img src="https://github.com/ErdalNayir/Youtube-Downloader/blob/main/pytube/photo1.jpg" height="250" width="500" /></div>
 <br></br>
-<div><img src="https://github.com/ErdalNayir/Youtube-Downloader/blob/main/pytube/photo2.jpg" height="250" width="450" /></div> 
+<div><img src="https://github.com/ErdalNayir/Youtube-Downloader/blob/main/pytube/photo2.jpg" height="250" width="500" /></div> 
 <br></br>
-<div><img src="https://github.com/ErdalNayir/Youtube-Downloader/blob/main/pytube/photo3.jpg" height="250" width="450" /></div>
+<div><img src="https://github.com/ErdalNayir/Youtube-Downloader/blob/main/pytube/photo3.jpg" height="250" width="500" /></div>
 <br></br>
-<div><img src="https://github.com/ErdalNayir/Youtube-Downloader/blob/main/pytube/photo4.jpg" height="250" width="450" /></div>
+<div><img src="https://github.com/ErdalNayir/Youtube-Downloader/blob/main/pytube/photo4.jpg" height="250" width="500" /></div>
 
 
 <br></br>
