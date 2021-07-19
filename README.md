@@ -16,3 +16,13 @@ You can download videos or convert them into audio
 * The downloaded audio or video is saved to current working directory (probably,to the file where the program source code is kept)
 
 
+<br></br>
+<br></br>
+
+<div><img src="https://github.com/ErdalNayir/GodVille-CrossPuzzle/blob/main/1.jpg" height="250" width="350" /></div>
+<br></br>
+<div><img src="https://github.com/ErdalNayir/GodVille-CrossPuzzle/blob/main/2.jpg" height="250" width="350" /></div> 
+<br></br>
+<div><img src="https://github.com/ErdalNayir/GodVille-CrossPuzzle/blob/main/5.jpg" height="250" width="350" /></div>
+
+<br></br>
