@@ -201,61 +201,6 @@ class Arayuz(QWidget):
                     return 0
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 def main():
     app = QApplication(sys.argv)
     ary = Arayuz()
